@@ -51,6 +51,12 @@ e. Show fares and other expenses.
 You are supposed to write code in HTML and JavaScript. Syntax is not a problem, 
 
 your understanding of the problem statement and approach to the same is of primary concern.
+Ans=
+<html>
+<head>
+<align="center"> Travel Company</br>
+//destination
+<inputtype='button'> menu on button type()
 
 3) Closest to zero     20 Marks
 
