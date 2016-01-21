@@ -63,6 +63,8 @@ Ans=
   <li><a href="#">kochi</a></li>
   <li><a href="#">delhi</a></li>
 </ul>
+date time
+ <input id="demo2" type="text" size="25"><a href="javascript:NewCal('demo2','ddmmmyyyy',true,12)"><img src="images/cal.gif" width="16" height="16" border="0" alt="Pick a date"></a>
 
 3) Closest to zero     20 Marks
 
