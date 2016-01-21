@@ -57,6 +57,12 @@ Ans=
 <align="center"> Travel Company</br>
 //destination
 <inputtype='button'> menu on button type()
+<><button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown">Dropdown Button</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  <li><a href="#">Kashmir</a></li>
+  <li><a href="#">kochi</a></li>
+  <li><a href="#">delhi</a></li>
+</ul>
 
 3) Closest to zero     20 Marks
 
