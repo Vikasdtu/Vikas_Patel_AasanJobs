@@ -129,6 +129,7 @@ d. response.write("Hello World")
 e. System.out.printf("Hello World")
 Ans= A
 
+
 10) HTML id should not start with a number?
 
 a. True
@@ -149,6 +150,7 @@ d. { Comment }
 e. None of the above
 Ans= A
 
+
 12) What is the complexity of Binary Search?
 
 a. O(log(n))
@@ -161,6 +163,7 @@ d. O(2)
 Ans= A
 
 e. None of the above
+
 
 13) The acronym ACID is typically used in reference to:
 
@@ -246,7 +249,7 @@ c. 2
 d. 3
 
 e. 4
-Ans D
+Ans C
 
 17) Which of the following is not a method of java.util.ArrayList?
 
